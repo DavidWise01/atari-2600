@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 6507
+node 2600 · 2600 · ⟦The 6507:2600:e308ad⟧
+
+WHO   — The 6507 — a cheaper 6502 · electrical
+WHAT  — a cheaper 6502 · electrical
+WHERE — 2600 · ATARI 2600 · VCS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A MOS 6507 — the 6502 in a reduced package with fewer address pins — at ~1.19 MHz. The cost-cut brain of the console that built the industry.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a cheaper 6502 · electrical
+
+spoken token : ra-nyr-stak   ·   hex : e308ad
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

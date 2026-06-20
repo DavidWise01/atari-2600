@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cartridge",
+  "universe": "2600 · The Cartridge (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Cartridge:2600:b93d9b⟧",
+  "carbon": "the-2600-cart.carbon.tiff (TIFF)",
+  "silicon": "the-2600-cart.silicon.png (PNG)",
+  "seal_sha256": "f3e72b4a59a044d6a1c5e282e1a124ec2f4d50dcb8353f4d04d89fb9d421f94a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

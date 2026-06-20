@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-2600-6507",
+    "name": "The 6507",
+    "epithet": "a cheaper 6502 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 6507:2600:e308ad⟧"
+  },
+  {
+    "slug": "the-2600-tia",
+    "name": "The TIA",
+    "epithet": "the whole picture, live · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The TIA:2600:bd9360⟧"
+  },
+  {
+    "slug": "the-2600-ram",
+    "name": "The 128 Bytes",
+    "epithet": "almost no memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 128 Bytes:2600:9826cf⟧"
+  },
+  {
+    "slug": "the-2600-beam",
+    "name": "Racing the Beam",
+    "epithet": "drawing line by line · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Racing the Beam:2600:f9124d⟧"
+  },
+  {
+    "slug": "the-2600-cart",
+    "name": "The Cartridge",
+    "epithet": "tiny ROMs, later banked · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:2600:b93d9b⟧"
+  },
+  {
+    "slug": "the-2600-joystick",
+    "name": "The Joystick",
+    "epithet": "the one-button stick · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Joystick:2600:7f24c7⟧"
+  }
+]

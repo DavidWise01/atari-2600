@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ATARI 2600 · VCS",
+  "universe": "2600 · ATARI 2600 · VCS (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦ATARI 2600 · VCS:2600:fe2ee0⟧",
+  "carbon": "atari-2600.carbon.tiff (TIFF)",
+  "silicon": "atari-2600.silicon.png (PNG)",
+  "seal_sha256": "5faab403d7ba5ff493f382d420a7d8fa42bc178bb1fe4ddd7a54383e6eae6e73",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

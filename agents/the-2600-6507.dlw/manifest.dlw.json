@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 6507",
+  "universe": "2600 · The 6507 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The 6507:2600:e308ad⟧",
+  "carbon": "the-2600-6507.carbon.tiff (TIFF)",
+  "silicon": "the-2600-6507.silicon.png (PNG)",
+  "seal_sha256": "bc20902c1025c25401eb0aa00368bf6805af2cfc27216abcaa87bbec0fca3c6e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

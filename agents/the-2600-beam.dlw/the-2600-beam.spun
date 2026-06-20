@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Racing the Beam
+node 2600 · 2600 · ⟦Racing the Beam:2600:f9124d⟧
+
+WHO   — Racing the Beam — drawing line by line · spiritual
+WHAT  — drawing line by line · spiritual
+WHERE — 2600 · ATARI 2600 · VCS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — With no framebuffer, the CPU rewrites the TIA in lockstep with the TV's scanning beam to paint each scanline — the defining, brutal craft of the platform.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  drawing line by line · spiritual
+
+spoken token : din-xus-dok   ·   hex : f9124d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

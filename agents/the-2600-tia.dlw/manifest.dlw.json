@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The TIA",
+  "universe": "2600 · The TIA (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The TIA:2600:bd9360⟧",
+  "carbon": "the-2600-tia.carbon.tiff (TIFF)",
+  "silicon": "the-2600-tia.silicon.png (PNG)",
+  "seal_sha256": "68a37c9c5306bff16db9f5fdce2b2ed97ef15460c6612f06548235d4885ac6af",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

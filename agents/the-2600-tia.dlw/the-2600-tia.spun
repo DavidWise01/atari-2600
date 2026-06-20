@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The TIA
+node 2600 · 2600 · ⟦The TIA:2600:bd9360⟧
+
+WHO   — The TIA — the whole picture, live · electrical
+WHAT  — the whole picture, live · electrical
+WHERE — 2600 · ATARI 2600 · VCS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The Television Interface Adaptor: it draws two players, two missiles, and a ball, and makes the sound — all generated in real time under tight CPU control.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the whole picture, live · electrical
+
+spoken token : sto-theind-phein   ·   hex : bd9360
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

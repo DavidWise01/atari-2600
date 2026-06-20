@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 128 Bytes",
+  "universe": "2600 · The 128 Bytes (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The 128 Bytes:2600:9826cf⟧",
+  "carbon": "the-2600-ram.carbon.tiff (TIFF)",
+  "silicon": "the-2600-ram.silicon.png (PNG)",
+  "seal_sha256": "28a4533164de00973d662c0d99fca8eaa8dbcb4369cfd6becdc1a54ef52562f2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
