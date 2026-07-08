@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 859
+slug  : atari-2600
+seal  : 5faab403d7ba5ff493f382d420a7d8fa42bc178bb1fe4ddd7a54383e6eae6e73
+prev  : c27f67fcd740d8d2011835ad5b96c460f9d5a5ea453cf17b1e32e1ba1681b2ba
+link  : 1d6a18d8998902b6306a9f54d8be9bfe0c0607ceb47d64b7bf3976dfe0846fdc
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
